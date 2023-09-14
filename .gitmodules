@@ -1,0 +1,3 @@
+[submodule "src/cpptest"]
+	path = src/cpptest
+	url = git@github.com:jolars/cpptest.git
